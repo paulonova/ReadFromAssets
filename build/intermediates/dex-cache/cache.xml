@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_2df6bf716ce3a6c27d08107bd5c482653fdf8ba0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1bde1522fcdb9d0a4d4e3773223f3eac41e1c7f1">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c9a274d7bcabd300fa905c10edb8d1d3c10897c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_dc507187317c3ac954679f1ecd30db0e41f18c93\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_6ededcc9b39f46fbcdd6efbd1a4d51bb6afd2a15\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c3f58b4d05dc46492c1fb23daf3c42884a315b1c">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_efc2c6dd16ed8e47241a692d11320fc513669b41\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\DESIGN_PATTERN_ANDROID\CH4\ReadFromAssets\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_d741dcb6e0f3793d1d80ad25ccd8f92dfe667d2e\classes.dex" />
+    </item>
+
+</items>
